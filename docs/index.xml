@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mi Site</title>
+    <link>http://example.org/</link>
+    <description>Recent content on Mi Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Mon, 04 Jul 2022 09:46:06 +0200</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contacto</title>
+      <link>http://example.org/contacto/</link>
+      <pubDate>Mon, 04 Jul 2022 09:46:06 +0200</pubDate>
+      
+      <guid>http://example.org/contacto/</guid>
+      <description>Esto es un sitio web creado con Hugo
+Mi primera vez
+Es super poderoso
+- Rapido - Versatil - Potente </description>
+    </item>
+    
+    <item>
+      <title>Posts 1</title>
+      <link>http://example.org/posts/posts1/</link>
+      <pubDate>Mon, 04 Jul 2022 09:46:06 +0200</pubDate>
+      
+      <guid>http://example.org/posts/posts1/</guid>
+      <description>Post 1
+Es super poderoso
+- Rapido - Versatil - Potente </description>
+    </item>
+    
+    <item>
+      <title>Posts 2</title>
+      <link>http://example.org/posts/posts2/</link>
+      <pubDate>Mon, 04 Jul 2022 09:46:06 +0200</pubDate>
+      
+      <guid>http://example.org/posts/posts2/</guid>
+      <description>Posts 2
+Es super poderoso 2
+- Rapido 2 - Versatil 2 - Potente 2 </description>
+    </item>
+    
+  </channel>
+</rss>
