@@ -2,23 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/contacto/</loc>
+    <loc>https://lortega80.github.io/mi-sitio/contacto/</loc>
     <lastmod>2022-07-04T09:46:06+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/</loc>
+    <loc>https://lortega80.github.io/mi-sitio/</loc>
     <lastmod>2022-07-04T09:46:06+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/</loc>
+    <loc>https://lortega80.github.io/mi-sitio/posts/</loc>
     <lastmod>2022-07-04T09:46:06+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/posts1/</loc>
+    <loc>https://lortega80.github.io/mi-sitio/posts/posts1/</loc>
     <lastmod>2022-07-04T09:46:06+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/posts2/</loc>
+    <loc>https://lortega80.github.io/mi-sitio/posts/posts2/</loc>
     <lastmod>2022-07-04T09:46:06+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://lortega80.github.io/mi-sitio/categories/</loc>
   </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://lortega80.github.io/mi-sitio/tags/</loc>
   </url>
 </urlset>
